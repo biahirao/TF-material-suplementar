@@ -1,0 +1,69 @@
+﻿Caso,Tipo,Ordem,Data,Marco ou registro,Origem da data,Unidade(s),Fonte documental,Precisão
+Sevilla FC,Marco,1,2019,Contratação de projeto fechado da empresa do informante (Alemanha) pelo Sevilla,ENT,SEV-02,—,Declarada
+Sevilla FC,Marco,2,2019,"Passagem da análise de dados de atividade ""artesanal"" a departamento específico, com patrocínio do diretor-geral e do diretor esportivo",ENT,SEV-11; SEV-12,—,Declarada
+Sevilla FC,Marco,3,sem data,"Primeiro projeto farol, na direção esportiva",ENT,SEV-27,—,Não declarada
+Sevilla FC,Marco,4,cerca de 2021,"Primeira base de infraestrutura e de bancos de dados, com projetos concluídos",Inferida,SEV-28,—,Inferida
+Sevilla FC,Marco,5,2021,Informante contratado como empregado e diretor do departamento de dados,ENT,SEV-02; SEV-03,—,Declarada
+Sevilla FC,Marco,6,dez/2022 (provisória),"Transfer Tracker, desenvolvido com a LaLiga Tech e oferecido a outros clubes",DOC,SEV-30,D-SEV-02; D-SEV-03,Inferida da URL
+Sevilla FC,Marco,7,23/01/2024,"Anúncio do Scout Advisor (IBM watsonx), construído pelo departamento de dados com a IBM",DOC,SEV-31; SEV-36,D-SEV-01,Documentada
+Sevilla FC,Marco,8,05/02/2024,Criação da Oficina de Clubes da LaLiga (marco ambiental),DOC,SEV-15,D-SEV-04,Documentada
+Sevilla FC,Marco,9,2025,Informante passa a Diretor de Tecnologia; dados integrados ao Departamento de Tecnologia,ENT,SEV-03,—,Declarada
+Sevilla FC,Marco,10,23/06/2026,"Publicações com a IBM Research e a ETH Zurich, com afiliação ""Technology Department, Sevilla FC""",DOC,SEV-03; SEV-16,D-SEV-05; D-SEV-06,Documentada
+Sevilla FC,Marco,11,jun/2026,Saída do informante do clube,ENT,SEV-01,—,Declarada (mês)
+Sevilla FC,Marco,12,sem registro,"Saída do diretor esportivo Monchi (""antiguo director deportivo"")",-,SEV-12,—,Ausente do corpus
+Sevilla FC,Etapas declaradas pelo informante (registro não codificado),1,,Aceitação cultural e percepção de valor (projetos farol),,SEV-27,,
+Sevilla FC,Etapas declaradas pelo informante (registro não codificado),2,,"Autonomia tecnológica e metodológica (infraestrutura própria, projetos em vários setores)",,SEV-28; SEV-30,,
+Sevilla FC,Etapas declaradas pelo informante (registro não codificado),3,,Referência de boas práticas no setor (LaLiga),,SEV-30,,
+Sevilla FC,Etapas declaradas pelo informante (registro não codificado),4,,Impacto internacional e parcerias com instituições acadêmicas e grandes empresas de tecnologia,,SEV-31,,
+Palmeiras,Marco,1,c. 2013,"Início do vínculo do informante com o clube, como prestador de serviço (TI corporativa; implantação do ERP), depois Marketing",Inferida,PAL-01,—,Inferida
+Palmeiras,Marco,2,08/02/2018,"Acordo com a Kin Analytics, a pedido do técnico, para incrementar o Centro de Inteligência do Palmeiras (CIP)",DOC,PAL-42,D-PAL-09; D-PAL-04,Documentada
+Palmeiras,Marco,3,01/02/2019,Renovação da parceria com a Kin Analytics até o fim de 2019,DOC,PAL-42,D-PAL-04,Documentada
+Palmeiras,Marco,4,16/08/2020,"Aquisição de monitores Firstbeat pelo NSP, complementando o GPS já em uso, sob a justificativa do excesso de jogos",DOC,PAL-43,D-PAL-02,Documentada
+Palmeiras,Marco,5,s.d. (posterior a 2022),"Estudo de caso da Hudl: CIP com câmeras automatizadas, Sportscode e Replay; Wyscout no setor de Mercado",DOC,PAL-44,D-PAL-03,Inferida do conteúdo
+Palmeiras,Marco,6,meados de 2022 a início de 2023,"Fundação da área de ciência de dados no futebol (CCDP), dedicada a operação esportiva",ENT,PAL-02,D-PAL-01 (compatível),Declarada (intervalo)
+Palmeiras,Marco,7,c. início de 2023,Informante passa ao futebol profissional,Inferida,PAL-01,—,Inferida
+Palmeiras,Marco,8,c. 2023,"Inversão da demanda: as áreas esportivas passam a procurar o CCDP, cerca de seis meses após a chegada da área",Inferida,PAL-30,—,Inferida
+Palmeiras,Marco,9,sem data (c. 2024),Passagem do relatório fechado do fornecedor ao dado bruto ('A diferença foi gigante'),ENT,PAL-22,D-PAL-10,Inferida
+Palmeiras,Marco,10,2024,"Melhorias dirigidas a análise de desempenho (CIP), distinta do setor de análise de mercado",DOC,PAL-03,D-PAL-11,Documentada (ano)
+Palmeiras,Marco,11,15/01/2024,Acordo com a Stats Perform (Opta Vision); a página já menciona a 'equipe de ciência de dados do Palmeiras',DOC,PAL-45; PAL-16; PAL-02,D-PAL-01,Documentada
+Palmeiras,Marco,12,fev/2024,"Estruturação de novo departamento de dados, 'inspirado em modelos europeus'; até então, dados da Opta usados de forma indireta, via softwares contratados",DOC,PAL-02; PAL-22,D-PAL-10,Documentada (mês)
+Palmeiras,Marco,13,10/06/2026,"Anúncio da parceria com o Google (TacticAI), no evento Google for Brasil",DOC,PAL-13; PAL-14,D-PAL-06; D-PAL-07; D-PAL-12,Documentada
+Palmeiras,Marco,14,06/07/2026,Acordo de 24 meses entre o Palmeiras (NSP) e a EEFEUSP para pesquisa em neurociência,DOC,PAL-37,D-PAL-08,Documentada
+Palmeiras,Marco,15,02/09/2026,Entrevista com o Head do CCDP; autoavaliação 7 em 10,ENT,-,—,Declarada
+Palmeiras,Marco,16,20/10/2026,Respostas escritas do informante as questões complementares: CCDP paralelo ao CIP; validação com a área demandante; Opta como fornecedora e dados centralizados no CCDP,ANX,PAL-47; PAL-48; PAL-49; PAL-50,—,Declarada
+Palmeiras,Etapas declaradas pelo informante (registro não codificado),1,,Organização em processos como 'grande degrau de evolução',,PAL-08,,
+Palmeiras,Etapas declaradas pelo informante (registro não codificado),2,,Passagem do relatório fechado ao dado bruto,,PAL-22,,
+Palmeiras,Etapas declaradas pelo informante (registro não codificado),3,,Modelos avançados de IA em parceria com o Google,,PAL-13,,
+Palmeiras,Etapas declaradas pelo informante (registro não codificado),Nota,,"Autoavaliação do informante: nota 7 em escala de 0 a 10, registrada sem gerar unidade.",,-,,
+Red Bull Bragantino,Marco,1,mar/2019,Início da parceria da Red Bull com o Clube Atlético Bragantino,DOC,-,DIÁRIO DA REGIÃO (2026),Documentada
+Red Bull Bragantino,Marco,2,c. out/2021,Fundação do departamento de dados por dois profissionais contratados especificamente para ele ('no meu dia 0 não tinha nada'),Inferida,RBB-01; RBB-30,D-RBB-05 (compatível),Inferida
+Red Bull Bragantino,Marco,3,s.d.,Saída de um dos dois fundadores; entrada e saída de outro profissional,ENT,RBB-02,—,Não declarada
+Red Bull Bragantino,Marco,4,04/02/2024,"O CEO declara o regime de sociedade limitada, como as demais empresas do grupo, sem interesse em converter-se em SAF",DOC,RBB-39,D-RBB-01,Documentada
+Red Bull Bragantino,Marco,5,29/02/2024,Analista de dados do clube apresentado publicamente em webinar da Hudl StatsBomb sobre análise de dados no futebol brasileiro,DOC,RBB-01; RBB-02,D-RBB-06,Documentada
+Red Bull Bragantino,Marco,6,19/04/2024,"Inauguração do Centro de Performance e Desenvolvimento (CPD), em Atibaia",DOC,-,TRIVELA (2024),Documentada
+Red Bull Bragantino,Marco,7,s.d.,"Ferramenta agregadora de monitoramento de jogadores desenvolvida no clube, apresentada a matriz e disponibilizada aos demais clubes da rede",ENT,RBB-16; RBB-17,—,Não declarada
+Red Bull Bragantino,Marco,8,s.d.,"Treinador do sub-20 passa da dificuldade de aplicação a demanda ativa; divergência apontada por ele revela erro de coleta do provedor, corrigido",ENT,RBB-26; RBB-27; RBB-28,—,Não declarada
+Red Bull Bragantino,Marco,9,29/10/2025,"Chegada da comissão técnica de Vagner Mancini; criação de métrica para elemento do modelo de jogo, colocada na primeira página do relatório pós-jogo",DOC (data) e ENT,RBB-10,D-RBB-02,Documentada (chegada); métrica posterior
+Red Bull Bragantino,Marco,10,s.d.,Caso decisório: contratação encaminhada não se concretiza após relatórios da área,ENT,RBB-24,—,Não declarada
+Red Bull Bragantino,Marco,11,11/09/2026,Entrevista com o coordenador de dados: equipe de cinco pessoas; meta de atender 100% dos departamentos esportivos até o fim de 2026,ENT,RBB-02; RBB-04,—,Declarada
+Red Bull Bragantino,Origem dos componentes da capacidade: clube × rede (registro não codificado),Rede,,Engenharia de dados; modelos desenvolvidos pela Red Bull Soccer com mentoria dos clubes; diretriz de escolha dos provedores,,RBB-36; RBB-37; RBB-11,,
+Red Bull Bragantino,Origem dos componentes da capacidade: clube × rede (registro não codificado),Clube,,Contratos e escopo de cobertura dos provedores; processos e formato dos relatórios; métricas e modelos próprios; ferramenta agregadora; interfaces com os departamentos,,RBB-13; RBB-34; RBB-09; RBB-08; RBB-16; RBB-30,,
+Red Bull Bragantino,Origem dos componentes da capacidade: clube × rede (registro não codificado),Restrições,,Separação jurídica dos dados entre clubes da rede (dados da Bundesliga; alvos de scouting),,RBB-12; RBB-14,,
+Red Bull Bragantino,Origem dos componentes da capacidade: clube × rede (registro não codificado),Nota,,Avaliação do informante sobre a saída da rede: processos e aquisição de dados preservados; perda inicial de informação; reconstrução possível. Hipótese (F3).,,RBB-38,,
+Coritiba,Marco,1,03/02/2022,"Constituição da Coritiba SAF, nos termos da Lei 14.193/2021",DOC,-,D-CFC-01,Documentada
+Coritiba,Marco,2,01/07/2023,Início da operação da SAF (drop-down),DOC,CFC-03,D-CFC-01,Documentada
+Coritiba,Marco,3,20/10/2023,Conclusão da transição para SAF; 90% do capital gerido pela Treecorp Investimentos,DOC e ENT,CFC-03,D-CFC-02,Documentada
+Coritiba,Marco,4,fim de 2023,Rebaixamento a Série B; temporada de 2024 na Série B,ENT,CFC-03,—,Declarada (ano)
+Coritiba,Marco,5,2024 (abr/2024 em D-CFC-03),"Chegada do coordenador, convidado a criar o setor de análise de dados, inexistente até então; benchmarking com profissionais de outros clubes na concepção da área",ENT e DOC,CFC-02; CFC-08; CFC-17,D-CFC-01; D-CFC-03,Documentada (ano); mês divergente
+Coritiba,Marco,6,2024,"Contratação de softwares de análise e desempenho; rubrica de TI de R$ 8,8 milhões (inexistente em 2023)",DOC,CFC-43; CFC-44,D-CFC-01,Documentada
+Coritiba,Marco,7,c. 2024-2026,"Ampliação da cobertura de ligas e da granularidade dos dados ('um ano atrás, dois anos atrás')",Inferida,CFC-22,—,Inferida
+Coritiba,Marco,8,c. mar/2025,Início dos processos de avaliação de jogador (todos os avaliados passam pela área) e de avaliação de cada jogo com a comissão,Inferida,CFC-38,—,Inferida
+Coritiba,Marco,9,2025,Título da Série B e acesso a Série A,ENT e DOC,CFC-03,D-CFC-01,Declarada; documentada na Seção 2.2.4
+Coritiba,Marco,10,2025,Participação do coordenador em conferência de analytics de futebol nos Estados Unidos ('ano passado'),ENT,CFC-37,—,Declarada (ano)
+Coritiba,Marco,11,c. set/2025,"Intensificação do uso de ferramentas de IA: automação de relatórios, economia declarada de 50-60% do tempo manual",Inferida,CFC-13; CFC-16; CFC-20,—,Inferida
+Coritiba,Marco,12,2026,Consolidação dos processos de avaliação de jogador e de jogo,ENT,CFC-38,—,Declarada (ano)
+Coritiba,Marco,13,21/09/2026,Entrevista com o coordenador: equipe de três pessoas; reporte a diretoria de futebol; processos documentados e onboarding,ENT,CFC-07; CFC-09; CFC-40,—,Declarada
+Coritiba,Efeitos da SAF e do controlador (registro não codificado),Origem,,"Área criada em 2024 por iniciativa do controlador, com profissional recrutado a partir de contato acadêmico (Insper); investidores com experiência fora do futebol reconheciam os benefícios",,CFC-02; CFC-04; CFC-06; CFC-47,,
+Coritiba,Efeitos da SAF e do controlador (registro não codificado),Orçamento,,"Linha orçamentária dedicada; justificativa por argumentos e referência de mercado; 'práticas profissionais', 'como qualquer outra empresa'; rubrica de TI quantificada em 2024",,CFC-39; CFC-44,,
+Coritiba,Efeitos da SAF e do controlador (registro não codificado),Acompanhamento,,"Criação da área por iniciativa de cima para baixo (gestão do futebol e SAF); a área existe desde que existe a SAF; o controlador acompanha por reuniões e por indicadores em relatórios, não especificados",,CFC-47; CFC-48,,
+Coritiba,Efeitos da SAF e do controlador (registro não codificado),Nota,,"A conversão em SAF coincide com o rebaixamento: a área nasce em contexto de Série B e déficit operacional (Seção 2.2.4), sustentada por aportes do controlador",,CFC-03,,
