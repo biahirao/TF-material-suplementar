@@ -34,6 +34,6 @@ Gravações, transcrições e trechos literais das entrevistas não são publica
 
 ## Como citar
 
-HIRAO, B. T. *Material suplementar do Trabalho de Conclusão de Curso: adoção de sistemas de análise de desempenho de jogadores em clubes de futebol de diferentes portes*. São Paulo: GitHub, 2026. Disponível em: https://github.com/SEU-USUARIO/tcc-material-suplementar.
+HIRAO, B. T. *Material suplementar do Trabalho de Conclusão de Curso: adoção de sistemas de análise de desempenho de jogadores em clubes de futebol de diferentes portes*. São Paulo: GitHub, 2026. Disponível em: https://github.com/biahirao/tcc-material-suplementar.
 
 Versão final, novembro de 2026.
